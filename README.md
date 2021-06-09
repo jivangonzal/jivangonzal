@@ -1,7 +1,13 @@
-![download](https://user-images.githubusercontent.com/35037534/121420507-2a029d80-c93b-11eb-9316-10a33a29fa7d.jpg)
 
+<img align="center" alt="Coding" width="800" height="200" src="https://user-images.githubusercontent.com/35037534/121423428-42c08280-c93e-11eb-946d-1490b325424c.png">
+
+![](https://komarev.com/ghpvc/?username=jivangonzal&color=green)
+<p><p><p>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jivangonzal&show_icons=true&theme=tokyonight)
+![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jivangonzal&theme=blue-green)
 
+<h3 align="left">Languages and Tools:</h3>
 
 
 
