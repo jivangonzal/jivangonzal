@@ -1,6 +1,9 @@
 ![download](https://user-images.githubusercontent.com/35037534/121420507-2a029d80-c93b-11eb-9316-10a33a29fa7d.jpg)
 
-### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jivangonzal&show_icons=true&theme=tokyonight)
+
+
+
 
 <!--
 **jivangonzal/jivangonzal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
