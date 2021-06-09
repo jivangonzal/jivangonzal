@@ -9,12 +9,12 @@ I'm a Software Developer pursuing a Master's in Cyber Security. A passionate lea
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jivangonzal&show_icons=true&theme=tokyonight) &nbsp;&nbsp;
 ![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jivangonzal&theme=blue-green)
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 
 
 
-<!--
+
 **jivangonzal/jivangonzal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
