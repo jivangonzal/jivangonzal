@@ -6,9 +6,7 @@
 I'm a Software Developer pursuing a Master's in Cyber Security. A passionate learner, with interest in Software Engineering, Cyber Security and Data Science.  
   
 <p><p><p> 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jivangonzal&show_icons=true&theme=tokyonight) &nbsp;&nbsp;
-![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jivangonzal&theme=blue-green)
+
 <!--
 <h3 align="left">Languages and Tools:</h3>
 
